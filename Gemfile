@@ -9,14 +9,3 @@ gem 'json', '~> 1.0'
 gem "httpi", ">= 2.4.0"
 gem "curb", ">= 0.9.0"
 
-group :development do
-  gem "bundler", ">= 1.0"
-  gem "rspec", "~> 2.14.1"
-  gem "simplecov"
-  gem "yard-thor"
-  gem "yard"
-  gem "pry"
-  gem "rake"
-  gem "jeweler"
-  gem "rack", "~> 1.0"
-end
